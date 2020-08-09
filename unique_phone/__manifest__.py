@@ -1,8 +1,8 @@
 {
     "name": "Unique Phone Number",
-    "version": "1.0",
+    "version": "1.2",
     "summary": """Unique Phone Number""",
-    "description": """Each customer have unique phone number, Odoo 12, Odoo""",
+    "description": """Each customer have unique phone number, Odoo 13, Odoo""",
     "author": "xyz",
     "company": "xyz",
     "website": "https://kimbugp.github.io",
