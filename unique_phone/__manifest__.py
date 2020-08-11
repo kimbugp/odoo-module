@@ -1,6 +1,6 @@
 {
-    "name": "Phone Number Validate",
-    "version": "2.0",
+    "name": "Phone Number Validator",
+    "version": "2.1",
     "summary": """Phone Number Validator""",
     "description": """Each customer have unique phone number, Odoo 13, Odoo""",
     "author": "xyz",
